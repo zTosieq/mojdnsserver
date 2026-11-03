@@ -1,0 +1,4 @@
+zone "maslanka.lan" {
+    type master;
+    file "/etc/bind/db.maslanka.lan";
+};
